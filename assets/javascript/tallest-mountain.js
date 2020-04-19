@@ -1,5 +1,1 @@
-(function(){
-
-    document.write("hello from tallest-mountain.js");
-
-})();
+document.write("hello from tallest-mountain.js");

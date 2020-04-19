@@ -1,5 +1,1 @@
-(function(){
-
-    document.write("hello from hangman-lite.js");
-
-})();
+document.write("hello from hangman-lite.js");
